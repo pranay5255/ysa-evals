@@ -1,0 +1,4 @@
+# Datasets are large — clone them separately via git lfs
+# Don't commit dataset files to this repo
+datasets/*/
+!datasets/README.md
